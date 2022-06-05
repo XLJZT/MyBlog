@@ -1,2 +1,2 @@
-# [XLJZT.github.io](https://xljzt.github.io/)
-page1
+# [XLJZT.Top](https://xljzt.top/)
+个人博客（正在装修中······）
