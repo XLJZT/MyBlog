@@ -2,8 +2,8 @@
 title: 对话系统——Dialog System
 description: 
 date: 2022-6-4
-top_image: /img/004.png
-cover: /img/004.png
+top_image: https://cdn.jsdelivr.net/gh/XLJZT/img@main/blog/004.png
+cover: https://cdn.jsdelivr.net/gh/XLJZT/img@main/blog/004.png
 categories: 
 - Unity
 tag: 
@@ -17,7 +17,7 @@ tag:
 
 首先还是要感谢麦扣老师，[视频链接](https://www.bilibili.com/video/BV1WJ411Y71J/?spm_id_from=333.788.recommend_more_video.1)。
 
-![image-20220604181812326](image-20220604181812326.png)
+![image-20220604181812326](https://cdn.jsdelivr.net/gh/XLJZT/img@main/blog/image-20220604181812326.png)
 
 # 文本读取与显示
 

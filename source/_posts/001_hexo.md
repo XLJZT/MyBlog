@@ -1,8 +1,8 @@
 ---
 title: 记录一下安装hexo的过程
 date: 2022-1-10
-top_image: /img/001.svg
-cover: /img/001.svg
+top_image: https://cdn.jsdelivr.net/gh/XLJZT/img@main/blog/001.svg
+cover: https://cdn.jsdelivr.net/gh/XLJZT/img@main/blog/001.svg
 categories: Hexo
 ---
 
@@ -34,7 +34,7 @@ $ npm install
 
 新建完成之后会有如下文件夹
 
-![image-20220110162452660](image-20220110162452660.png)
+![image-20220110162452660](https://cdn.jsdelivr.net/gh/XLJZT/img@main/blog/image-20220110162452660.png)
 
 ```
 $ hexo g
@@ -43,7 +43,7 @@ $ hexo s
 
 之后便可以进入到初始博客
 
-![image-20220110162645465](image-20220110162645465.png)
+![image-20220110162645465](https://cdn.jsdelivr.net/gh/XLJZT/img@main/blog/image-20220110162645465.png)
 
 #### GitHub或Gitee 创建新库
 
@@ -89,9 +89,9 @@ $ hexo d
 
 #### 修改主题
 
-我选择的是 [Hexo Theme Cupertino](https://github.com/MrWillCom/hexo-theme-cupertino)
+我选择的是 [Hexo Theme Cupertino](https://cdn.jsdelivr.net/gh/XLJZT/img@main/blog/https://github.com/MrWillCom/hexo-theme-cupertino)
 
-![image-20220110164357577](image-20220110164357577.png)
+![image-20220110164357577](https://cdn.jsdelivr.net/gh/XLJZT/img@main/blog/image-20220110164357577.png)
 
 完全符合我的审美
 
@@ -110,7 +110,7 @@ theme: hexo-theme-cupertino
 
 修改原作者的链接
 
-![image-20220110165134907](image-20220110165134907.png)
+![image-20220110165134907](https://cdn.jsdelivr.net/gh/XLJZT/img@main/blog/image-20220110165134907.png)
 
 `添加浏览器图标png放到 文件名/source 下`
 
@@ -123,7 +123,7 @@ description:''
 
 这是现实在主页的两行字体 作者源码解释在此
 
-![image-20220110165549516](image-20220110165549516.png)
+![image-20220110165549516](https://cdn.jsdelivr.net/gh/XLJZT/img@main/blog/image-20220110165549516.png)
 
 至此主题部分配置已结束
 
@@ -215,11 +215,11 @@ hexo.extend.filter.register('after_post_render', function(data){
 
 在写markdown文件时设置好图像的问题，我用的是typora更改图片设置如下图
 
-![image-20220111114426389](image-20220111114426389.png)
+![image-20220111114426389](https://cdn.jsdelivr.net/gh/XLJZT/img@main/blog/image-20220111114426389.png)
 
 这样就会将图片和文件放到一个文件夹下
 
-![image-20220111114517951](image-20220111114517951.png)
+![image-20220111114517951](https://cdn.jsdelivr.net/gh/XLJZT/img@main/blog/image-20220111114517951.png)
 
 然后使用命令
 
@@ -231,7 +231,7 @@ hexo new 记录一下安装hexo的过程
 
 然后将写好的markdown文件的图片放入文件夹里 将md文件放到外面
 
-![image-20220111115043380](image-20220111115043380.png)
+![image-20220111115043380](https://cdn.jsdelivr.net/gh/XLJZT/img@main/blog/image-20220111115043380.png)
 
 本人建议直接将编辑好的markdown文件夹复制到 `文件/source/_post/ ` 然后将`.md`文件给拉到和文件夹同一层级，形成上图的层级格式 
 

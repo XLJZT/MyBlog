@@ -2,8 +2,8 @@
 title: 3DURP游戏制作笔记
 date: 2022-5-10
 description:
-top_image: /img/002.png
-cover: /img/002.png
+top_image: https://cdn.jsdelivr.net/gh/XLJZT/img@main/blog/002.png
+cover: https://cdn.jsdelivr.net/gh/XLJZT/img@main/blog/002.png
 categories: 
 - Unity
 tags: 

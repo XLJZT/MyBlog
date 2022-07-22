@@ -2,8 +2,8 @@
 title: 关于Inventory的制作
 description: 
 date: 2022-5-31
-top_image: /img/003.png
-cover: /img/003.png
+top_image: https://cdn.jsdelivr.net/gh/XLJZT/img@main/blog/image-20220603143654206.png
+cover: https://cdn.jsdelivr.net/gh/XLJZT/img@main/blog/image-20220603143654206.png
 categories: 
 - Unity
 tag: 
@@ -19,7 +19,7 @@ tag:
 
 制作之后的(简陋)界面。
 
-![image-20220603143654206](image-20220603143654206.png)
+![image-20220603143654206](https://cdn.jsdelivr.net/gh/XLJZT/img@main/blog/image-20220603143654206.png)
 
 # UI界面
 
